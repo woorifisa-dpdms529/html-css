@@ -1,0 +1,26 @@
+* {
+    font-family: "Roboto", sans-serif; 
+    /* sans-serif - 대체 폰트 */
+}
+
+/* h2 태그에만 색상을 slateblue */
+/* 태그 이름으로 작성 - 태그 선택자 */
+h2 {
+    color: slateblue;
+}
+
+/* .기호는 클래스 이름으로 선택 */
+.class-selector {
+    /* fz30 */
+    font-size: 30px;
+    border: 2px dashed firebrick;
+}
+
+/* #기호는 아이디 선택자 */
+#id-selector {
+    font-size: 40px;
+    font-style: italic;
+    color: forestgreen;
+}
+
+
