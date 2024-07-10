@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+}
+
+.box {
+    width: 300px;
+    /* bgco */
+    background-color: skyblue;
+    font-size: 50px;
+    border: dashed 5px beige;
+    /* padding: 20px; */
+    padding: 20px;
+    /* margin-left: 20px; */
+}
